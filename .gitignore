@@ -41,3 +41,11 @@ Thumbs.db
 *.bak
 *.tmp
 *.swp
+
+
+archive/
+archive_2/
+models/
+
+#zip files
+*.zip
